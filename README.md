@@ -55,12 +55,9 @@ Like many others, I also started my data science journey from this [knowledge co
 * [Gradient Descent and Newton's Method](https://github.com/puneet-08/projects/blob/main/Gradient_Descent_%2B_Newton's_Method.ipynb)
 * [Linear Regression](https://github.com/puneet-08/projects/blob/main/Linear_Regression_from_scratch.ipynb)
 * [Logistic Regression](https://github.com/puneet-08/projects/blob/main/Logistic_Regression_from_scratch.ipynb)
-* Naive Bayes and Gaussian Discriminant Analysis
+* [Naive Bayes and Gaussian Discriminant Analysis](https://github.com/puneet-08/projects/blob/main/Naive_Bayes_and_GDA_from_scratch.ipynb)
 * [Support Vector Machines](https://github.com/puneet-08/projects/blob/main/SVM_from_scratch.ipynb)
-* K-Means Clustering
-* Expectation Maximization
-
-
-
+* [K-Means Clustering](https://github.com/puneet-08/projects/blob/main/K_Means.ipynb)
+* [Expectation Maximization](https://github.com/puneet-08/projects/blob/main/Expectation_Maximization.ipynb)
 
 
