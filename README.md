@@ -47,7 +47,7 @@ Reference Research Paper: [Show, Attend and Tell: Neural Image Caption Generatio
 
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) is a knowledge competition on Kaggle. This is a regression problem: based on information about houses we predict their prices. General description and data are available on Kaggle. 
 
-### 8. Titanic - Machine Learning from Disaster
+### 8. [Titanic - Machine Learning from Disaster](https://www.kaggle.com/startpuneet/titanic-lets-do-it)
 
 Like many others, I also started my data science journey from this [knowledge competition](https://www.kaggle.com/c/titanic) hosted on Kaggle. This is a classification problem: aim is to predict whether a person survives or not based on some input features.
 
